@@ -15,6 +15,6 @@ NativeDB Introduced: v1290
 ## Parameters
 * **explosionType**:
 * **x**:
-* **y**:
+* **w**:
 * **z**:
 * **radius**:

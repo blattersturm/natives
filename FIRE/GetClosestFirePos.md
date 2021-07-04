@@ -12,6 +12,8 @@ BOOL GET_CLOSEST_FIRE_POS(Vector3* outPosition, float x, float y, float z);
 Returns TRUE if it found something. FALSE if not.  
 ```
 
+IT'S ON FIRE!
+
 ## Parameters
 * **outPosition**: 
 * **x**: 
